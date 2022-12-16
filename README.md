@@ -10,8 +10,7 @@
 
 ## Vídeo do Projeto:
 
- [news-picker](https://vimeo.com/781943217/47081a1c56)
- 
+ [news-picker](https://vimeo.com/781947404/4425cea3f9) 
  
  
 ## Mais:
