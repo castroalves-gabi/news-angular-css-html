@@ -7,6 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NEWS</title>
     <link rel="stylesheet" href="styles/card.css"> 
+    <script src="src/components/cardNews.js" defer></script>
+<!--defer faz com que primeiro eu crie a árvore da dom e só depois que a dom estiver concluída e que o js pode implementar mudanças-->
 </head>
 
 <body>
@@ -33,5 +35,9 @@
         </div>
 
     </div>
-</body>
+
+    <card-news></card-news> 
+<!--     a seletor card-news é adicionado dentro do container, sendo tratado como uma tag html e cumprindo sua função de exibir o hello world
+    então a gente criou o molde de uma classe que tem o mesmo comportamento do html e essa tag pode ser reutilizada várias vezes
+--></body>
 </html>
